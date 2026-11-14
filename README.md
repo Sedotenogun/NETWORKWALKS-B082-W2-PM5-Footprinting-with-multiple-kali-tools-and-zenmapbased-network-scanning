@@ -62,7 +62,7 @@ For this exercise, I ran six simple commands on my Linux computer to see what in
 * **Why this matters:** A firewall automatically blocks suspicious behavior. Knowing a guard is on duty tells security testers that aggressive scans will be stopped right away.
 
 ### 6. Checking Mail & Domain Routing Records (`dnsrecon`)
-* **Command Run:** `dnsrecon -d networkwalks.com`
+* **Command Run:** `dnsrecon -d networkwalks.com` 
 * **What I did:** Pulled up all the behind-the-scenes routing instructions for `networkwalks.com`—such as where emails go and which servers handle traffic.
 * **What I found:**
   * Both HostGator servers (`50.87.144.87` and `192.232.216.131`) publicly announce the exact version of their routing software (**`Bind 9.16.23-RH`**).
