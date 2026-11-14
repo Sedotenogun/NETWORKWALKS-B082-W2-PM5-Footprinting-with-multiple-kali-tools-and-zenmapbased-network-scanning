@@ -5,7 +5,7 @@ Week 2 Cybersecurity Internship lab report: passive website footprinting with Ka
 ## What This Project Is About
 During Week 2, I completed two beginner security exercises:
 1. **Looking up public clues about a website** (`networkwalks.com`) using tools on a Linux computer.
-2. **Finding all devices connected to a local network** using a visual map tool on a Windows computer.
+2. **Finding all devices connected to a local network** using a visual map tool on a Windows computer. 
 
 Think of the first part like checking the outside of a house—looking at its street address, who owns the property, and whether it has a security fence—without ever touching the front door. The second part is like walking around inside your own house to see which phones, laptops, and routers are currently turned on and connected to the Wi-Fi.
 
